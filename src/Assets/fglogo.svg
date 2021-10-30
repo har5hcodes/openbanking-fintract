@@ -1,0 +1,656 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1890" height="1417" viewBox="0 0 1890 1417">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-2, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-3, .cls-30, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: #011982;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-2, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-3, .cls-30, .cls-31, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke: #376b38;
+        stroke-width: 42.89px;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-2, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-3, .cls-30, .cls-31, .cls-32, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        filter: url(#filter-2);
+      }
+
+      .cls-3 {
+        filter: url(#filter-3);
+      }
+
+      .cls-4 {
+        filter: url(#filter-4);
+      }
+
+      .cls-5 {
+        filter: url(#filter-5);
+      }
+
+      .cls-6 {
+        filter: url(#filter-6);
+      }
+
+      .cls-7 {
+        filter: url(#filter-7);
+      }
+
+      .cls-8 {
+        filter: url(#filter-8);
+      }
+
+      .cls-9 {
+        filter: url(#filter-9);
+      }
+
+      .cls-10 {
+        filter: url(#filter-10);
+      }
+
+      .cls-11 {
+        filter: url(#filter-11);
+      }
+
+      .cls-12 {
+        filter: url(#filter-12);
+      }
+
+      .cls-13 {
+        filter: url(#filter-13);
+      }
+
+      .cls-14 {
+        filter: url(#filter-14);
+      }
+
+      .cls-15 {
+        filter: url(#filter-15);
+      }
+
+      .cls-16 {
+        filter: url(#filter-16);
+      }
+
+      .cls-17 {
+        filter: url(#filter-18);
+      }
+
+      .cls-18 {
+        filter: url(#filter-19);
+      }
+
+      .cls-19 {
+        filter: url(#filter-20);
+      }
+
+      .cls-20 {
+        filter: url(#filter-21);
+      }
+
+      .cls-21 {
+        filter: url(#filter-22);
+      }
+
+      .cls-22 {
+        filter: url(#filter-23);
+      }
+
+      .cls-23 {
+        filter: url(#filter-24);
+      }
+
+      .cls-24 {
+        filter: url(#filter-25);
+      }
+
+      .cls-25 {
+        filter: url(#filter-26);
+      }
+
+      .cls-26 {
+        filter: url(#filter-27);
+      }
+
+      .cls-27 {
+        filter: url(#filter-28);
+      }
+
+      .cls-28 {
+        filter: url(#filter-29);
+      }
+
+      .cls-29 {
+        filter: url(#filter-30);
+      }
+
+      .cls-30 {
+        filter: url(#filter-31);
+      }
+
+      .cls-31 {
+        fill: #376b38;
+        filter: url(#filter-32);
+      }
+
+      .cls-32 {
+        fill: #fff;
+        stroke: #000;
+        stroke-width: 1px;
+        filter: url(#filter-33);
+      }
+    </style>
+    <filter id="filter" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="312" y="196" width="293" height="992" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-3" x="262" y="196" width="293" height="991" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-4" x="211" y="196" width="293" height="991" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-5" x="924" y="196" width="293" height="991" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-6" x="877" y="196" width="293" height="992" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-7" x="830" y="196" width="293" height="992" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-8" x="364" y="193" width="682" height="307" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-9" x="364" y="240" width="682" height="307" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-10" x="971" y="196" width="582" height="306" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-11" x="971" y="289" width="582" height="307" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-12" x="971" y="244" width="582" height="307" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-13" x="364" y="289" width="682" height="306" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-14" x="971" y="834" width="582" height="307" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-15" x="971" y="882" width="582" height="306" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-16" x="364" y="468" width="528" height="307" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-18" x="364" y="517" width="528" height="307" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-19" x="364" y="566" width="528" height="306" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-20" x="1354" y="196" width="293" height="485" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-21" x="1405" y="196" width="292" height="485" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-22" x="1402" y="197" width="295" height="485" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-23" x="1356" y="198" width="293" height="484" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-24" x="1307" y="197" width="294" height="485" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-25" x="1402" y="635" width="293" height="554" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-26" x="1355" y="634" width="293" height="554" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-27" x="1307" y="635" width="294" height="554" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-28" x="1308" y="196" width="292" height="485" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-29" x="971" y="787" width="582" height="307" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-30" x="1113" y="566" width="583" height="306" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-31" x="1113" y="613" width="583" height="306" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-32" x="1113" y="518" width="583" height="307" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="108" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="11.18"/>
+      <feFlood result="flood" flood-opacity="0.15"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="6.481"/>
+      <feFlood result="flood-2" flood-opacity="0.31"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" mode="multiply" in2="composite"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-33" x="298" y="1009" width="1312" height="203" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="12" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="6.481"/>
+      <feFlood result="flood" flood-opacity="0.31"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-1">
+    <g>
+      <g style="fill: #011982; filter: url(#filter-2)">
+        <path id="Line_1" data-name="Line 1" class="cls-2" d="M458.313,225.279l0.054,729.711Z" style="stroke: inherit; filter: none; fill: inherit"/>
+      </g>
+      <use xlink:href="#Line_1" style="stroke: #376b38; filter: none; fill: none"/>
+      <g style="fill: #011982; filter: url(#filter-3)">
+        <path id="Line_1-2" data-name="Line 1" class="cls-3" d="M408.382,225.281l-0.006,728.725Z" style="stroke: inherit; filter: none; fill: inherit"/>
+      </g>
+      <use xlink:href="#Line_1-2" style="stroke: #376b38; filter: none; fill: none"/>
+      <g style="fill: #011982; filter: url(#filter-4)">
+        <path id="Line_1-3" data-name="Line 1" class="cls-4" d="M357.426,225.285l0,728.725Z" style="stroke: inherit; filter: none; fill: inherit"/>
+      </g>
+      <use xlink:href="#Line_1-3" style="stroke: #376b38; filter: none; fill: none"/>
+    </g>
+    <g style="fill: #011982; filter: url(#filter-5)">
+      <path id="Line_1-4" data-name="Line 1" class="cls-5" d="M1069.52,225.079l0.06,728.889Z" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Line_1-4" style="stroke: #376b38; filter: none; fill: none"/>
+    <g style="fill: #011982; filter: url(#filter-6)">
+      <path id="Line_1-5" data-name="Line 1" class="cls-6" d="M1023.14,225.048l-0.01,729.936Z" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Line_1-5" style="stroke: #376b38; filter: none; fill: none"/>
+    <g style="fill: #011982; filter: url(#filter-7)">
+      <path id="Line_1-6" data-name="Line 1" class="cls-7" d="M975.744,225.082l-0.006,729.9Z" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Line_1-6" style="stroke: #376b38; filter: none; fill: none"/>
+    <g style="fill: #011982; filter: url(#filter-8)">
+      <path id="Line_4" data-name="Line 4" class="cls-8" d="M488.743,244.421l432.221,0.838Zm0,0,432.221,0.838Z" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Line_4" style="stroke: #376b38; filter: none; fill: none"/>
+    <g style="fill: #011982; filter: url(#filter-9)">
+      <path id="Line_4-2" data-name="Line 4" class="cls-9" d="M488.743,291l432.221,0.838Zm0,0,432.221,0.838Z" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Line_4-2" style="stroke: #376b38; filter: none; fill: none"/>
+    <g style="fill: #011982; filter: url(#filter-10)">
+      <path id="Line_4-3" data-name="Line 4" class="cls-10" d="M1095.22,246.441l332.64,0.834Zm0,0,332.64,0.834Z" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Line_4-3" style="stroke: #376b38; filter: none; fill: none"/>
+    <g style="fill: #011982; filter: url(#filter-11)">
+      <path id="Line_4-4" data-name="Line 4" class="cls-11" d="M1095.22,340.428l332.64,0.835Zm0,0,332.64,0.835Z" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Line_4-4" style="stroke: #376b38; filter: none; fill: none"/>
+    <g style="fill: #011982; filter: url(#filter-12)">
+      <path id="Line_4-5" data-name="Line 4" class="cls-12" d="M1095.22,294.853l332.64,0.835Zm0,0,332.64,0.835Z" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Line_4-5" style="stroke: #376b38; filter: none; fill: none"/>
+    <g style="fill: #011982; filter: url(#filter-13)">
+      <path id="Line_4-6" data-name="Line 4" class="cls-13" d="M488.743,339.639l432.221,0.838Zm0,0,432.221,0.838Z" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Line_4-6" style="stroke: #376b38; filter: none; fill: none"/>
+    <g style="fill: #011982; filter: url(#filter-14)">
+      <path id="Line_4-7" data-name="Line 4" class="cls-14" d="M1095.22,885.4l332.61,0.833Zm0,0,332.61,0.833Z" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Line_4-7" style="stroke: #376b38; filter: none; fill: none"/>
+    <g style="fill: #011982; filter: url(#filter-15)">
+      <path id="Line_4-8" data-name="Line 4" class="cls-15" d="M1095.22,932.7l332.61,0.833Zm0,0,332.61,0.833Z" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Line_4-8" style="stroke: #376b38; filter: none; fill: none"/>
+    <g style="fill: #011982; filter: url(#filter-16)">
+      <path id="Line_4-9" data-name="Line 4" class="cls-16" d="M488.693,519.322l277.736,0.84Zm0,0,277.736,0.84Z" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Line_4-9" style="stroke: #376b38; filter: none; fill: none"/>
+  </g>
+  <g class="cls-1">
+    <g style="fill: #011982; filter: url(#filter-18)">
+      <path id="Line_4-10" data-name="Line 4" class="cls-17" d="M488.693,568.032l277.736,0.84Zm0,0,277.736,0.84Z" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Line_4-10" style="stroke: #376b38; filter: none; fill: none"/>
+    <g style="fill: #011982; filter: url(#filter-19)">
+      <path id="Line_4-11" data-name="Line 4" class="cls-18" d="M488.693,616.613l277.736,0.84Zm0,0,277.736,0.84Z" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Line_4-11" style="stroke: #376b38; filter: none; fill: none"/>
+    <g style="fill: #011982; filter: url(#filter-20)">
+      <path id="Line_10" data-name="Line 10" class="cls-19" d="M1500.06,225.008v0Z" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Line_10" style="stroke: #376b38; filter: none; fill: none"/>
+    <g style="fill: #011982; filter: url(#filter-21)">
+      <path id="Line_10-2" data-name="Line 10" class="cls-20" d="M1550.51,225.022v0Z" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Line_10-2" style="stroke: #376b38; filter: none; fill: none"/>
+    <g id="Group_3_copy" data-name="Group 3 copy">
+      <g style="fill: #011982; filter: url(#filter-22)">
+        <path id="Line_1-7" data-name="Line 1" class="cls-21" d="M1548,227l2,221Z" style="stroke: inherit; filter: none; fill: inherit"/>
+      </g>
+      <use xlink:href="#Line_1-7" style="stroke: #376b38; filter: none; fill: none"/>
+      <g style="fill: #011982; filter: url(#filter-23)">
+        <path id="Line_1-8" data-name="Line 1" class="cls-22" d="M1502.38,227.281L1502.06,448Z" style="stroke: inherit; filter: none; fill: inherit"/>
+      </g>
+      <use xlink:href="#Line_1-8" style="stroke: #376b38; filter: none; fill: none"/>
+      <g style="fill: #011982; filter: url(#filter-24)">
+        <path id="Line_1-9" data-name="Line 1" class="cls-23" d="M1453,227l1,221Z" style="stroke: inherit; filter: none; fill: inherit"/>
+      </g>
+      <use xlink:href="#Line_1-9" style="stroke: #376b38; filter: none; fill: none"/>
+    </g>
+    <g id="Group_3_copy_2" data-name="Group 3 copy 2">
+      <g style="fill: #011982; filter: url(#filter-25)">
+        <path id="Line_1-10" data-name="Line 1" class="cls-24" d="M1548.5,665L1548,955Z" style="stroke: inherit; filter: none; fill: inherit"/>
+      </g>
+      <use xlink:href="#Line_1-10" style="stroke: #376b38; filter: none; fill: none"/>
+      <g style="fill: #011982; filter: url(#filter-26)">
+        <path id="Line_1-11" data-name="Line 1" class="cls-25" d="M1501.37,663.562L1501.06,954Z" style="stroke: inherit; filter: none; fill: inherit"/>
+      </g>
+      <use xlink:href="#Line_1-11" style="stroke: #376b38; filter: none; fill: none"/>
+      <g style="fill: #011982; filter: url(#filter-27)">
+        <path id="Line_1-12" data-name="Line 1" class="cls-26" d="M1453,665l1,290Z" style="stroke: inherit; filter: none; fill: inherit"/>
+      </g>
+      <use xlink:href="#Line_1-12" style="stroke: #376b38; filter: none; fill: none"/>
+    </g>
+    <g style="fill: #011982; filter: url(#filter-28)">
+      <path id="Line_10-3" data-name="Line 10" class="cls-27" d="M1453.49,225.027v0Z" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Line_10-3" style="stroke: #376b38; filter: none; fill: none"/>
+    <g style="fill: #011982; filter: url(#filter-29)">
+      <path id="Line_4-12" data-name="Line 4" class="cls-28" d="M1095.22,838.365l332.64,0.834Zm0,0,332.64,0.834Z" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Line_4-12" style="stroke: #376b38; filter: none; fill: none"/>
+    <g style="fill: #011982; filter: url(#filter-30)">
+      <path id="Line_4-13" data-name="Line 4" class="cls-29" d="M1237.4,616.434l332.6,0.833Zm0,0,332.6,0.833Z" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Line_4-13" style="stroke: #376b38; filter: none; fill: none"/>
+    <g style="fill: #011982; filter: url(#filter-31)">
+      <path id="Line_4-14" data-name="Line 4" class="cls-30" d="M1237.4,663.732l332.6,0.832Zm0,0,332.6,0.832Z" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Line_4-14" style="stroke: #376b38; filter: none; fill: none"/>
+    <g style="fill: #376b38; filter: url(#filter-32)">
+      <path id="Line_4-15" data-name="Line 4" class="cls-31" d="M1237.4,569.4l332.64,0.835Zm0,0,332.64,0.835Z" style="stroke: inherit; filter: none; fill: inherit"/>
+    </g>
+    <use xlink:href="#Line_4-15" style="stroke: #376b38; filter: none; fill: none"/>
+  </g>
+  <g style="fill: #fff; filter: url(#filter-33)">
+    <path id="FINTRACT_GLOBAL" data-name="FINTRACT GLOBAL" class="cls-32" d="M393.269,1087.71H352.13v-31.78h41.139v-12.86H339.845v110.77H352.13v-53.26h41.139v-12.87Zm26.709-44.64H407.694v110.77h12.284V1043.07Zm104.133,0H511.97v81.41l-66.708-81.41h-3.714v110.77h12.57v-80.35l66.279,80.35h3.714V1043.07Zm71.135,0h-58.28v12.71h23v98.06h12.427v-98.06h22.855v-12.71Zm45.138,60.23q16.713,0,25.569-8.25t8.857-22.02a31.714,31.714,0,0,0-2.714-13.24,26.235,26.235,0,0,0-7.428-9.76,28.481,28.481,0,0,0-11.142-5.37q-6.427-1.59-23.569-1.59H608.53v110.77h12.285V1103.3H625.1l36.854,50.54h15.427Zm-19.569-47.52h17.141q12.427,0,18.284,4.16t5.857,13.32q0,9.165-6,13.32t-18.57,4.01H620.815v-34.81Zm117.417-17.1h-3.714l-49.424,115.16h13.57l16-37.07H757.8l16.142,37.07h13Zm-17.856,64.92,16-37.38,15.855,37.38H720.376Zm168.555,22.25q-14.859,18.3-35,18.31t-32.783-12.94q-12.642-12.945-12.642-32.23,0-19.305,12.928-32.61,12.925-13.32,30.783-13.32,21.855,0,36.711,19.07l9.427-7.72a53.284,53.284,0,0,0-19.926-17.93,58.171,58.171,0,0,0-27-6.13,54.876,54.876,0,0,0-28.069,7.56,53.84,53.84,0,0,0-20.355,20.89,59.073,59.073,0,0,0-7.356,29.05q0,25.425,15.855,42.07t40.711,16.65q29.424,0,46.281-23.01Zm75.7-82.78h-58.28v12.71h23v98.06h12.427v-98.06h22.855v-12.71Zm109.564,56.6v12.56h32.57q-2.445,14.835-13.15,23.38t-25.42,8.55q-19.86,0-33.07-13.85t-13.21-32.46a43.387,43.387,0,0,1,6-22.24,44.234,44.234,0,0,1,16.57-16.35,42.478,42.478,0,0,1,21.28-6.05,48.474,48.474,0,0,1,20.85,4.77,64.953,64.953,0,0,1,18.86,13.69l9.43-9.53q-11.295-11.04-23.07-16.42a60.785,60.785,0,0,0-25.5-5.37q-25.29,0-41.28,17.17a57.613,57.613,0,0,0-16,40.63,58.677,58.677,0,0,0,16,40.94q15.99,17.475,42.85,17.48,23.43,0,37.78-14.99,14.355-14.97,14.79-41.91H1074.2Zm115.27,41.61h-39.42v-98.21h-12.43v110.77h51.85v-12.56Zm36.92-93.21a54.721,54.721,0,0,0-19.92,21.26,60.952,60.952,0,0,0-7.29,29.35,60.1,60.1,0,0,0,7.29,29.21,54.466,54.466,0,0,0,47.92,28.68,52.328,52.328,0,0,0,27.64-7.72,54.772,54.772,0,0,0,20-21.19,62.183,62.183,0,0,0-.07-58.56,54.517,54.517,0,0,0-48.35-28.75A51.279,51.279,0,0,0,1226.39,1048.07Zm-2.07,82.62q-12.42-13.17-12.42-32.16t12.07-32.23a39,39,0,0,1,30.07-13.24q17.565,0,30.06,13.16,12.51,13.17,12.5,32.54t-12.35,32.23a40.272,40.272,0,0,1-30.21,12.86Q1236.745,1143.85,1224.32,1130.69Zm158.84-59.93q0-13.3-8.64-20.5t-25.21-7.19h-21.28v110.77h29.28q15.285,0,24.78-9.15,9.5-9.165,9.5-23.08a29.363,29.363,0,0,0-5.07-17.25q-5.07-7.26-15.07-11.2,11.715-7.86,11.71-22.4h0Zm-42.99-14.98h10.85q19.575,0,19.57,14.98,0,9.24-6.35,13.47t-19.22,4.24h-4.85v-32.69Zm0,45.7h4.71q13.29,0,18.36,1.44a23.52,23.52,0,0,1,8.57,4.31,18.48,18.48,0,0,1,7.07,15.14,17.511,17.511,0,0,1-3,9.53,18.282,18.282,0,0,1-8,6.96q-5,2.265-16,2.27h-11.71v-39.65Zm113.13-62.8h-3.71l-49.43,115.16h13.57l16-37.07h43.14l16.14,37.07h13Zm-17.86,64.92,16-37.38,15.86,37.38h-31.86Zm131.85,37.68h-39.43v-98.21h-12.42v110.77h51.85v-12.56Z" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use xlink:href="#FINTRACT_GLOBAL" style="stroke: #000; filter: none; fill: none"/>
+</svg>
